@@ -7,4 +7,4 @@ Run as a .py file.
 
 The program works as a CLI implementation. The first run on a device creates the databases on the device in the default directory.
 
-User ID 8 adds
+User ID 84 adds an admin user who can view all accounts and tables.
